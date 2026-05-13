@@ -6,7 +6,7 @@
 [![Language](https://img.shields.io/badge/Language-Japanese%20%7C%20English-blue)](docs/)
 
 <p align="left">
-  <img src="./assets/ogp_design.png" width="90%">
+  <img src="./assets/cover_design.png" width="70%">
 </p>
 
 *Read this in other languages: [日本語](README.md)*
@@ -31,8 +31,8 @@ This is not a judgment. Not a comparison of superiority. Expressions like "Anthr
 
 | File | Language | Content |
 | --- | --- | --- |
-| [growth-engine-of-anthropic_JP.md](./docs/jp/growth-engine-of-anthropic_JP.md) | 🇯🇵 Japanese | Full text (Japanese edition) |
-| [growth-engine-of-anthropic_EN.md](./docs/en/growth-engine-of-anthropic_EN.md) | 🇺🇸 English | Full text (English edition) |
+| [the-growth-engine-of-anthropic_JP.md](./docs/jp/the-growth-engine-of-anthropic_JP.md) | 🇯🇵 Japanese | Full text (Japanese edition) |
+| [the-growth-engine-of-anthropic_EN.md](./docs/en/the-growth-engine-of-anthropic_EN.md) | 🇺🇸 English | Full text (English edition) |
 
 ---
 
