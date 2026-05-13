@@ -6,7 +6,7 @@
 [![Language](https://img.shields.io/badge/Language-Japanese%20%7C%20English-blue)](docs/)
 
 <p align="left">
-  <img src="./assets/ogp_design.png" width="90%">
+  <img src="./assets/cover_design.png" width="70%">
 </p>
 
 *Read this in other languages: [English](README_en.md)*
@@ -31,8 +31,8 @@
 
 | ファイル | 言語 | 内容 |
 | --- | --- | --- |
-| [growth-engine-of-anthropic_JP.md](./docs/jp/growth-engine-of-anthropic_JP.md) | 🇯🇵 日本語 | 本文（日本語版） |
-| [growth-engine-of-anthropic_EN.md](./docs/en/growth-engine-of-anthropic_EN.md) | 🇺🇸 English | 本文（英語版） |
+| [the-growth-engine-of-anthropic_JP.md](./docs/jp/the-growth-engine-of-anthropic_JP.md) | 🇯🇵 日本語 | 本文（日本語版） |
+| [the-growth-engine-of-anthropic_EN.md](./docs/en/the-growth-engine-of-anthropic_EN.md) | 🇺🇸 English | 本文（英語版） |
 
 ---
 
